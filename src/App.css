@@ -1,0 +1,29 @@
+button {
+  height: 40px;
+  width: 300px;
+  margin: 10px;
+}
+
+section {
+  margin: 10px;
+  padding: 10px;
+}
+
+.count {
+  display: flex;
+  box-sizing: border-box;
+  font-family: Roboto, Arial, sans-serif;
+  margin: 10px;
+}
+
+.countText {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.countProgress {
+  background-color: red;
+  height: 20px;
+  margin-left: 20px;
+}
