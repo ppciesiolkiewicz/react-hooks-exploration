@@ -1,1 +1,3 @@
-Hooks exploration
+# React hooks exploration
+
+This project aims to show how common mistakes with react affect render count and how does it compare to lifecycle methods approach
