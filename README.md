@@ -2,4 +2,6 @@
 
 This project aims to show how common mistakes with react affect render count and how does it compare to classical react class components
 
-![chrome-capture](https://user-images.githubusercontent.com/9255876/76157289-ff59e180-6106-11ea-9f45-f5686127b19c.gif)
+ 
+![Screenshot from 2020-03-08 06-32-19](https://user-images.githubusercontent.com/9255876/76157297-1ef10a00-6107-11ea-8db1-0ab30c799d29.png)
+
